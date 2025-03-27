@@ -46,7 +46,7 @@ Certifique-se de ter um navegador moderno instalado (como Google Chrome, Firefox
 
 1. Clone este repositório para o seu computador:
     ```bash
-    git clone https://github.com/SEU_USUARIO/gerador-qr-code.git](https://github.com/pabloedusilva/Gerador_de_QRCode.git
+    git clone https://github.com/pabloedusilva/Gerador_de_QRCode.git
     ```
 
 2. Navegue até o diretório do projeto:
