@@ -64,7 +64,8 @@ Certifique-se de ter um navegador moderno instalado (como Google Chrome, Firefox
 
 ![demo3](https://github.com/user-attachments/assets/8ba53234-ce78-4076-b331-fe912bb80b4c)
 
-![demo4](https://github.com/user-attachments/assets/e1364b91-be3e-4615-bdfb-34c4ddca5fd5)
+![demo4](https://github.com/user-attachments/assets/2e924de1-11c3-4058-8507-664ef4ece1e7)
+
 
 
 
